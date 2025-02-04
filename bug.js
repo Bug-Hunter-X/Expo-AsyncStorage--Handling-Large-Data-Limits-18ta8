@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in Expo with a large amount of data. The error message might not be explicit, but it will manifest as unexpected behavior or crashes.  The underlying cause is that AsyncStorage has limitations in handling very large data chunks.  This often goes unnoticed until a significant amount of data accumulates.
